@@ -87,14 +87,15 @@ header .top_nav menu .dark_mode .moon {
   border-radius: 10px;
   border: solid 1px #fff;
   padding: 1rem;
-  width: 250px;
+  width: 280px;
   height: auto;
   position: relative;
 }
 .content_wrapper main .product-list .product_item h4 {
   padding-bottom: 1rem;
   width: 250px;
-  height: 70px;
+  height: 120px;
+  font-size: 1.2rem;
 }
 .content_wrapper main .product-list .product_item img {
   object-fit: contain;
@@ -116,10 +117,11 @@ header .top_nav menu .dark_mode .moon {
   margin: 0 auto;
   position: absolute;
   bottom: 10px;
-  left: 90px;
+  left: 105px;
 }
 .content_wrapper main .product-list .product_item .description_container {
-  padding: 1rem 0 2rem;
+  padding: 1rem 0 3rem;
+  font-size: 1.1rem;
 }
 .content_wrapper main .product-list .product_item .description_container .description {
   display: inline-block;
@@ -130,12 +132,14 @@ header .top_nav menu .dark_mode .moon {
   background: rgba(255, 255, 255, 0);
   color: rgb(69, 69, 255);
   display: inline-block;
+  font-size: 1rem;
 }
 .content_wrapper main .product-list .product_item .description_container .showless_btn {
   border: none;
   background: rgba(255, 255, 255, 0);
   color: rgb(149, 0, 255);
   display: none;
+  font-size: 1rem;
 }
 .content_wrapper main .product-list .product_item .rating img {
   width: 20px;
